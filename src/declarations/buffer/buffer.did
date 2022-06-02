@@ -1,0 +1,5 @@
+service : {
+  balance: () -> (nat) query;
+  baseBuffer: (vec nat) -> ();
+  stdBuffer: (vec nat) -> ();
+}
